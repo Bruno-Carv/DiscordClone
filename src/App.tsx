@@ -2,8 +2,6 @@ import React, { useEffect, useState } from 'react';
 
 import Layout from './components/Layout';
 import GlobalStyle from './styles/GlobalStyles';
-
-import chatmessage from './chat.json';
 import LoadDiscrod from './components/LoadDiscord';
 
 function App() {
@@ -14,7 +12,6 @@ function App() {
     setTimeout(() => {
         setLoad(true);
     },10000);  
-    localStorage.setItem('message', JSON.stringify(chatmessage));
     setLoad(false);
   }, []);
 
