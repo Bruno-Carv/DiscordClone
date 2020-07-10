@@ -1,0 +1,26 @@
+[
+    {
+        "photo": "https://avatars3.githubusercontent.com/u/47616928?s=460&u=f9db1b9ae6a819cee19edb8b4231fb64bab2d102&v=4",
+        "author": "Bruno Carvalho",
+        "message": "Seja bem vindo a clone do discord",
+        "date": "09/07/2020",
+        "isBot": true,
+        "hasMention": false
+    },
+    {
+        "photo": "https://avatars3.githubusercontent.com/u/47616928?s=460&u=f9db1b9ae6a819cee19edb8b4231fb64bab2d102&v=4",
+        "author": "Bruno Carvalho",
+        "message": "Respondendo a pergunta @Rocketseat o Clone do Discord e dos projetos do projeto UI Clone da Rocketseat onde desenvolve um clone de algum serviço com as tecnologias mais recenter.",
+        "date": "09/07/2020",
+        "isBot": true,
+        "hasMention": false
+    },
+    {
+        "photo": "https://avatars3.githubusercontent.com/u/47616928?s=460&u=f9db1b9ae6a819cee19edb8b4231fb64bab2d102&v=4",
+        "author": "Bruno Carvalho",
+        "message": "E dentre essas tecnologias são o ReactJS em Typescript, Styled-components.",
+        "date": "09/07/2020",
+        "isBot": true,
+        "hasMention": false
+    }
+]

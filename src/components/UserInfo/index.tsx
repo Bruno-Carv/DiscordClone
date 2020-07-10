@@ -1,17 +1,17 @@
 import React from 'react';
 
-import { 
-    Container, 
-    Profile, 
-    Avatar, 
-    UserData, 
-    Icons, 
-    MicIcon, 
-    HeadphoneIcon, 
-    SettingIcon 
+import {
+    Container,
+    Profile,
+    Avatar,
+    UserData,
+    Icons,
+    MicIcon,
+    HeadphoneIcon,
+    SettingIcon
 } from './styles';
 
-export interface Props{
+export interface Props {
     photo?: string;
 }
 
@@ -21,10 +21,10 @@ const UserInfo: React.FC<Props> = ({
     return (
         <Container>
             <Profile>
-                <Avatar photo='https://avatars3.githubusercontent.com/u/47616928?s=460&u=f9db1b9ae6a819cee19edb8b4231fb64bab2d102&v=4'/>
+                <Avatar photo='https://avatars2.githubusercontent.com/u/1965106?s=280&v=4' />
                 <UserData>
-                    <strong>Bruno Carvalho</strong>
-                    <span>#2689</span>
+                    <strong>User</strong>
+                    <span>#{Math.floor(Math.random() * 40)}{Math.floor(Math.random() * 400)}</span>
                 </UserData>
             </Profile>
 
