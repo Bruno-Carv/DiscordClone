@@ -22,5 +22,13 @@
         "date": "09/07/2020",
         "isBot": true,
         "hasMention": false
+    },
+    {
+        "photo": "https://avatars3.githubusercontent.com/u/47616928?s=460&u=f9db1b9ae6a819cee19edb8b4231fb64bab2d102&v=4",
+        "author": "Bruno Carvalho",
+        "message": "Além de baseado nesse programa de UI Clone, foi alterado para comportar mais parecido com o Discord, sendo extra a estrutura de texto, loading anterior mostrado dentre outras funcionalidades incluidas no projeto.",
+        "date": "09/07/2020",
+        "isBot": true,
+        "hasMention": false
     }
 ]
