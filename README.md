@@ -43,6 +43,14 @@
 - [NodeJS](https://nodejs.org/pt-br/) - versão 12.18 LTS;
 - [Yarn](https://yarnpkg.com/) - versão 1.22.0;
 
+### Executar Projeto
+
+`Yarn install`
+
+ou 
+
+`npm install`
+
 ### Estrutura de Arquivos
 
 ```bash
