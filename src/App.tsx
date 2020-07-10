@@ -13,7 +13,7 @@ function App() {
   useEffect(() => {
     setTimeout(() => {
         setLoad(true);
-    },5000);  
+    },10000);  
     localStorage.setItem('message', JSON.stringify(chatmessage));
     setLoad(false);
   }, []);

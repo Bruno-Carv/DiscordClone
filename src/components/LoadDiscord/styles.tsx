@@ -8,7 +8,7 @@ export const Modal = styled.div`
     position: fixed;
     z-index: 1; 
     
-    padding-top: 100px;
+    padding-top: 200px;
     left: 0;
     top: 0;
     
@@ -21,13 +21,17 @@ export const Modal = styled.div`
 `;
 
 export const ModalContent = styled.div`
+    display: flex;
+    justify-content: center;
+
     position: relative;
 
-    background-color: var(--primary);
+    background-color: var(--quaternary);
     margin: auto;
     padding: 0;
-    border: 1px solid var(--primary);
-    width: 35%;
+    border: 1px solid var(--quaternary);
+    width: 320px;
+    height: 390px;
 
     box-shadow: 2px 2px 2px 2px rgba( 0, 0, 0, 0.2),0 6px 20px 0 rgba(0,0,0,0.19);
     
@@ -57,13 +61,13 @@ export const ModalBody = styled.div`
     justify-content: center;
 
     > img {
-        width: 200px; 
-        height: 200px;
+        width: 120px; 
+        height: 120px;
     }
 `;
 
 export const Title = styled.div`
-    margin-top: 15px;
+    margin-top: 25px;
     font-size: 16px;
     font-style: italic;
     font-weight: bold;
@@ -72,7 +76,7 @@ export const Title = styled.div`
 
 export const Discribe = styled.div`
     display: flex;
-    margin-top: 5px;
+    margin-top: 15px;
 
     font-size: 16px;
     font-weight: bold;
