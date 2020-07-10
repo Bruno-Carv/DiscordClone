@@ -20,15 +20,15 @@
 
 ## Sobre o Projeto
 
-
+Como projeto com base no canal da Rocketseat, o DiscordClone é uma das aplicações desenvolvidas com base no conhecimento de Front-end ensinado por Guilherme Brazs da equipe da Rocketseat. Com base nessa aula e conhecimentos da tecnologia, foi implementado alguns detalhes para vincular o front-end ao serviço de stream e chat do Discord.
 
 ### Tecnologias aplicadas
 
-- [React](https://reactnative.dev/) - O React é a biblioteca mais popular do JavaScript e é usada para construir uma interface de usuário (IU). Ela oferece uma resposta excelente para o usuário adicionar comandos usando um novo método de renderizar sites. Os componentes dessa ferramenta foram desenvolvidos pelo Facebook.
+- [ReactJS](https://reactnative.dev/) - O React é a biblioteca mais popular do JavaScript e é usada para construir uma interface de usuário (IU). Ela oferece uma resposta excelente para o usuário adicionar comandos usando um novo método de renderizar sites. Os componentes dessa ferramenta foram desenvolvidos pelo Facebook.
 
-- [Typescript](https://reactnative.dev/) - O React é a biblioteca mais popular do JavaScript e é usada para construir uma interface de usuário (IU). Ela oferece uma resposta excelente para o usuário adicionar comandos usando um novo método de renderizar sites. Os componentes dessa ferramenta foram desenvolvidos pelo Facebook.
+- [Typescript](https://www.typescriptlang.org) - TypeScript é um superconjunto de JavaScript desenvolvido pela Microsoft que adiciona tipagem e alguns outros recursos a linguagem. Anders Hejlsberg, arquiteto da linguagem C# e criador das linguagens Delphi e Turbo Pascal, trabalhou no desenvolvimento do TypeScript. A linguagem pode ser usada para desenvolver aplicações JavaScript no lado cliente e lado servidor.
 
-- [Styled-components](https://reactnative.dev/) - O React é a biblioteca mais popular do JavaScript e é usada para construir uma interface de usuário (IU). Ela oferece uma resposta excelente para o usuário adicionar comandos usando um novo método de renderizar sites. Os componentes dessa ferramenta foram desenvolvidos pelo Facebook.
+- [Styled-components](https://styled-components.com) - Styled components são componentes onde criamos o CSS no próprio arquivo do componente, o arquivo JS. Com isso conseguimos obter algumas vantagens em diversos quesitos, tais como: Carregamento automático do CSS crítico, isso é, os componentes são renderizados com a página e são injetados apenas o CSS que realmente será utilizado, nada mais!
 
 ## Interface da aplicação
 
@@ -119,7 +119,7 @@ DiscordUIClone
 
 ## Licença
 
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+Distribuído sob a licença GNU GENERAL PUBLIC LICENSE. Veja `LICENSE` para mais informações.
 
 ## Contato
 
