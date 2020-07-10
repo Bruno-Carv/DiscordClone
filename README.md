@@ -45,11 +45,9 @@
 
 ### Executar Projeto
 
-`Yarn install`
-
-ou 
-
-`npm install`
+Para instalar a dependências do projeto execute o comando `$ npm install` ou `$ yarn install`, 
+logo após o download execute o comando `$ npm start` ou `yarn start`, assim executará a 
+dependência react-scripts que irá abrir o projeto na URL `http://localhost:3000`.
 
 ### Estrutura de Arquivos
 
