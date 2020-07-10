@@ -68,7 +68,7 @@ export const ModalBody = styled.div`
 
 export const Title = styled.div`
     margin-top: 25px;
-    font-size: 16px;
+    font-size: 14px;
     font-style: italic;
     font-weight: bold;
     color: var(--white);
@@ -78,7 +78,7 @@ export const Discribe = styled.div`
     display: flex;
     margin-top: 15px;
 
-    font-size: 16px;
+    font-size: 12px;
     font-weight: bold;
     color: var(--gray);
 `;
