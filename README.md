@@ -34,7 +34,7 @@
 
 ### Aplicação Web
 
-<p align="center"><img src="" width="400"></p>
+<p align="center"><img src="https://github.com/Bruno-Carv/DiscordUiClone/blob/Web(ReactJS-TypeScript)/docs/UI.png?raw=true" width="400"></p>
 
 ## Começando
 
