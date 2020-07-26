@@ -50,6 +50,14 @@ projeto, para isso execute o comando `npm install` ou `yarn install`,
 logo após o download execute o comando `npm start` ou `yarn start`, assim executará a 
 dependência react-scripts que irá abrir o projeto na URL `http://localhost:3000`.
 
+#### Docker 
+
+Entrando na raiz do projeto, primeiro passo é criar a imagem para gerar o container do projeto, 
+para isso com o Docker instalado e ativo, execute o comando `docker image build . -t brunocarvalhs/discordclone`, após será gerado a imagem que estára em seu cache do docker, logo em seguida execute o comando:
+ - [Linux]:`docker container run -p 80:3000 -v $pwd:/www -it --name DiscordClone brunocarvalhs/discordclone`
+ - [Windows]:`docker container run -p 80:3000 -v ${pwd}:/www -it --name DiscordClone brunocarvalhs/discordclone`
+ - [Mac]:`docker container run -p 80:3000 -v $pwd:/www -it --name DiscordClone brunocarvalhs/discordclone`
+assim executará a dependência react-scripts que irá abrir o projeto na URL `http://localhost`.
 ### Estrutura de Arquivos
 
 ```bash
